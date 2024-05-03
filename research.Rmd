@@ -1,0 +1,172 @@
+---
+name: "Research"
+output_dir: "."
+output:
+  html_document:
+    toc: no
+    toc_depth: 1
+    toc_collapsed: true
+    theme: sandstone
+    
+---
+
+<style>
+img {
+    width: 100%;
+}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<center>
+![](https://maddiebrown.github.io/assets/terrace_banner.jpg)
+</center>
+
+<br>
+
+
+# Networks, cooperation and resource access in SW China {#SES}
+
+<h4>Social relationships are critical for understanding self-organized natural resource management systems. People rarely act in isolation, instead taking their socioecological contexts into account when making decisions. This ongoing research investigates how resource-related cooperation influences resource access and social dynamics among indigenous Yi wild mushroom harvesters in Yunnan Province, China. Check out a recent [publication](https://doi.org/10.1007/s10745-020-00149-1) from this project. One ongoing component of this work is part of the [ENDOW](https://endowproject.github.io/) project. </h4>
+
+<br>
+
+<div class = "row">
+<div class = "col-md-4 col-sm-4 col-xs-4">
+![](https://maddiebrown.github.io/assets/wall_square.jpg)
+</div>
+  
+<div class = "col-md-4 col-sm-4 col-xs-4">
+![](https://maddiebrown.github.io/assets/net4year.png)
+</div>
+  
+<div class = "col-md-4 col-sm-4 col-xs-4">
+![](https://maddiebrown.github.io/assets/mushroombasket_square.jpg)
+</div>
+</div>
+
+<br>
+
+***
+
+
+
+# Cultural resources in the Mid-Atlantic region {#CR}
+
+
+<h4> 
+Integrating cultural and natural resource conservation is critical for successful large landscape conservation. We are assessing the spatial distribution and values of cultural resource using three approaches: 1) compiling existing databases to develop multi-layer cultural resource maps; 2) ethnographic work and surveys with cultural resource experts; and 3) leveraging crowd-sourced landscape values from Twitter data. Check out a [publication](https://gispoint.de/fileadmin/user_upload/paper_gis_open/DLA_2019/537663009.pdf) from this work.</h4>
+
+
+<br>
+
+<div class = "row">
+<div class = "col-md-4 col-sm-4 col-xs-4" style="max-width: 40rem;">
+![](https://maddiebrown.github.io/assets/canoe_square.jpg)
+</div>
+  
+<div class = "col-md-4 col-sm-4 col-xs-4" style="max-width: 40rem;">
+![](https://maddiebrown.github.io/assets/twitter_square.png)
+</div>
+  
+<div class = "col-md-4 col-sm-4 col-xs-4" style="max-width: 40rem;">
+![](https://maddiebrown.github.io/assets/trail_square.jpg)
+</div>
+</div>
+
+<br>
+
+***
+
+
+
+# TREKS: Trails, routemaking, ecological knowledge and stewardship study {#EE}
+
+<h4> 
+By engaging with and actively shaping landscapes, trailbuilding communities come to know landscapes as storied social spaces. This study asks how trails come into being, both physically and as imagined landscapes by their creators, managers, and users. Research is situated ethnographically both virtually and in the Mid-Atlantic and Sierra Nevada regions, where existing long distance trails (the AT and PCT) and proposed trail management plans shape local conservation and recreation landscapes. Visit the [OSF page](https://osf.io/atdkx/) for updates.</h4>
+
+
+<br>
+
+<div class = "row">
+<div class = "col-md-4 col-sm-4 col-xs-4" style="max-width: 40rem;">
+![](https://maddiebrown.github.io/assets/mountain_square.jpeg)
+
+</div>
+  
+<div class = "col-md-4 col-sm-4 col-xs-4" style="max-width: 40rem;">
+![](https://maddiebrown.github.io/assets/sierra_square2.jpg)
+
+</div>
+  
+<div class = "col-md-4 col-sm-4 col-xs-4" style="max-width: 40rem;">
+![](https://maddiebrown.github.io/assets/florida_square.jpeg)
+
+</div>
+</div>
+
+<br>
+
+
+
+
+***
+
+
+
+# Select projects 
+
+<br>
+
+
+
+<div class = "row">
+<div class = "col-md-6 col-sm-6">
+<div class="panel panel-default">
+<div class="panel-heading"><h3>Participatory mushroom management</h3></div>
+<div class="panel-body">
+<h4>Wild mushroom harvesters in Yunnan use a variety of techniques to enhance mushroom production and reduce insect predation. Together with local harvesters and colleagues at ICRAF, we conducted a participatory research experiment investigating how shiro-level management techniques influence matsutake production and quality. Check out our recent [publication](https://doi.org/10.1007/s00267-017-0976-3).</h4>
+</div>
+</div>
+</div>
+
+<div class = "col-md-6 col-sm-6">
+<div class="panel panel-default">
+<div class="panel-heading"><h3>Cash crops and NTFPs in the Greater Mekong Subregion</h3></div>
+<div class="panel-body">
+<h4>With colleagues at The World Agroforestry Center (ICRAF), we investigated the impact of cash crop adoption on non-timber forest product use and livelihood strategies. See [published results](https://bioone.org/journals/mountain-research-and-development/volume-37/issue-1/MRD-JOURNAL-D-15-00087.1/Mushrooms-and-Cash-Crops-Can-Coexist-in-Mountain-Livelihoods/10.1659/MRD-JOURNAL-D-15-00087.1.full).</h4>
+</div>
+</div>
+</div>
+</div>
+
+<br>
+
+<div class = "row">
+<div class = "col-md-6 col-sm-6">
+<div class="panel panel-default">
+<div class="panel-heading"><h3>The science and culture of landscape conservation</h3></div>
+<div class="panel-body">
+<h4>The Landscape Conservation Cooperatives (LCCs) play an important role in planning for large landscape natural and cultural resource conservation in response to climate change. As a LCC Fellow, I conducted an ethnographic study of the AppLCC. Check out the [dashboard](https://maddiebrown.github.io/LCCdashboard/home) and [report](https://www.landscapepartnership.org/research/applcc-funded-projects/integrating-cultural-resource-preservation-at-a-landscape-level/natural-resources-fellowship/executive-summary-present-and-future-possibilities-of-landscape-scale-conservation).</h4>
+</div>
+</div>
+</div>
+
+
+<div class = "col-md-6 col-sm-6">
+<div class="panel panel-default">
+<div class="panel-heading"><h3>Yi ethnomycology audio archive</h3></div>
+<div class="panel-body">
+<h4>In collaboration with local mushroom harvesters from Chuxiong Prefecture, we created a digital archive of Yi ethnomycological knowledge. This digital archive includes photos and audio recordings of Yi language species names. Check out the [archive](http://www.yi-tek.net/) and [publication](https://doi.org/10.2993/0278-0771-39.1.131).</h4>
+</div>
+</div>
+</div>
+</div>
+
+<br>
+
+***
+
+<p style="text-align: center;">Site by Madeline Brown | <a href="https://maddiebrown.github.io/contact">Contact</a></p>
