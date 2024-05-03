@@ -27,9 +27,9 @@ knitr::opts_chunk$set(echo = TRUE)
 <br>
 
 
-# Networks, cooperation and resource access in SW China {#SES}
+#  {#SES}
 
-<h4>Social relationships are critical for understanding self-organized natural resource management systems. People rarely act in isolation, instead taking their socioecological contexts into account when making decisions. This ongoing research investigates how resource-related cooperation influences resource access and social dynamics among indigenous Yi wild mushroom harvesters in Yunnan Province, China. Check out a recent [publication](https://doi.org/10.1007/s10745-020-00149-1) from this project. One ongoing component of this work is part of the [ENDOW](https://endowproject.github.io/) project. </h4>
+<h4> </h4>
 
 <br>
 
